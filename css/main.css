@@ -6,3 +6,4 @@ body{font-family:Lato,"Microsoft YaHei",sans-serif;font-weight:400;font-size:1.1
 #pagepiling div.section:nth-child(5){ background-color:#129DE7; }
 #pagepiling div.section:nth-child(6){ background-color:#ED6461; }
 #pagepiling div.section:nth-child(7){ background-color:#22B573; }
+.pp-tableCell h2 a{ color:#28E0C4; }
