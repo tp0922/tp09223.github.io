@@ -7,3 +7,4 @@ body{font-family:Lato,"Microsoft YaHei",sans-serif;font-weight:400;font-size:1.1
 #pagepiling div.section:nth-child(6){ background-color:#ED6461; }
 #pagepiling div.section:nth-child(7){ background-color:#22B573; }
 .pp-tableCell h2 a{ color:#28E0C4; }
+#profession h1{ text-shadow: 1px 2px #833D9E,2px 4px #B09FB6; }
